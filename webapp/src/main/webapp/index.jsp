@@ -1,1 +1,1 @@
-<h1> Hello, Welcome to Simple DevOps Project. Test with Ansible !!   </h1>
+<h1> Hello, Welcome to Simple DevOps Project. Deployed to docker container !!   </h1>
