@@ -1,1 +1,1 @@
-<h1> Hello, Welcome to Simple DevOps Project. Deployed to docker container !!   </h1>
+<h1> Hello, Welcome to Simple DevOps Project. Deployed into kubernetes !!   </h1>
